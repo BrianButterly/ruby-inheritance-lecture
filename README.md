@@ -10,11 +10,7 @@
 - [ ] *Bonus* Use `module`s to add additional behavior to classes
 
 ## Lecture Videos
-Here's a playlist with all the videos:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLc6AmvC5Zyby4TPfNgqrH7AvACu9a0wmm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Individual video links below:
+Here's a [playlist](https://www.youtube.com/playlist?list=PLc6AmvC5Zyby4TPfNgqrH7AvACu9a0wmm) with all the videos. Individual video links below:
 
 - [Intro](https://youtu.be/8oqPPqQWh2g)
 - [Lab Walkthrough](https://youtu.be/486sc_oa4-s)
